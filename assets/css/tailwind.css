@@ -4,7 +4,7 @@
 
 @layer components {
     .main-container {
-        @apply md:container flex mx-2
+        @apply md:container flex mx-10 py-10
     }
 
     .header-btn {

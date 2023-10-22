@@ -10,4 +10,8 @@
     .header-btn {
         @apply bg-[#12b488] px-3 py-2 rounded-md text-white
     }
+
+    .item-btn {
+        @apply bg-[#12b488] container flex h-40 rounded-md text-white place-items-center justify-center
+    }
 }
